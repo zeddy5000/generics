@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70784bdd-f496-4e65-841e-7a44bd66414c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generics.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collections/CollectionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collections/ListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collections/LinkedLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/ListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collections/ListTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +38,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/zeddy/Desktop/java_projs/EcommDemo&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -95,7 +91,8 @@
       <updated>1678491550543</updated>
       <workItem from="1678491551682" duration="2920000" />
       <workItem from="1678537585949" duration="68000" />
-      <workItem from="1678537883131" duration="4472000" />
+      <workItem from="1678537883131" duration="8483000" />
+      <workItem from="1678746212033" duration="1898000" />
     </task>
     <servers />
   </component>
