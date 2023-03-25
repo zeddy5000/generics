@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70784bdd-f496-4e65-841e-7a44bd66414c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LambdasNdStreams/IntStreamOp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LambdasNdStreams/StreamsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collections/CharSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collections/MyTasks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collections/buSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LambdasNdStreams/StringStreams.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +47,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.IntStreamOp">
+  <component name="RunManager" selected="Application.StringStreams">
     <configuration name="IntStreamOp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LambdasNdStreams.IntStreamOp" />
       <module name="generics" />
@@ -104,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="buSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collections.buSort" />
+    <configuration name="StringStreams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LambdasNdStreams.StringStreams" />
       <module name="generics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collections.*" />
+          <option name="PATTERN" value="LambdasNdStreams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringStreams" />
         <item itemvalue="Application.IntStreamOp" />
         <item itemvalue="Application.StreamsTest" />
         <item itemvalue="Application.MyTasks" />
         <item itemvalue="Application.MergeTest" />
-        <item itemvalue="Application.buSort" />
       </list>
     </recent_temporary>
   </component>
@@ -143,7 +139,8 @@
       <workItem from="1679447184446" duration="4479000" />
       <workItem from="1679503628688" duration="51000" />
       <workItem from="1679512507388" duration="2624000" />
-      <workItem from="1679564668800" duration="15418000" />
+      <workItem from="1679564668800" duration="15609000" />
+      <workItem from="1679746631422" duration="1413000" />
     </task>
     <servers />
   </component>
