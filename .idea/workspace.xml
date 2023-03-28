@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70784bdd-f496-4e65-841e-7a44bd66414c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LambdasNdStreams/StrStrems.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LambdasNdStreams/Employee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LambdasNdStreams/StrStrems.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LambdasNdStreams/StrStrems.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +48,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.StringStreams">
+  <component name="RunManager" selected="Application.StrStrems">
     <configuration name="IntStreamOp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LambdasNdStreams.IntStreamOp" />
       <module name="generics" />
@@ -61,8 +62,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collections.MergeTest" />
+    <configuration name="MyTasks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collections.MyTasks" />
       <module name="generics" />
       <extension name="coverage">
         <pattern>
@@ -74,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyTasks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collections.MyTasks" />
+    <configuration name="StrStrems" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LambdasNdStreams.StrStrems" />
       <module name="generics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collections.*" />
+          <option name="PATTERN" value="LambdasNdStreams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StrStrems" />
         <item itemvalue="Application.StringStreams" />
         <item itemvalue="Application.IntStreamOp" />
         <item itemvalue="Application.StreamsTest" />
         <item itemvalue="Application.MyTasks" />
-        <item itemvalue="Application.MergeTest" />
       </list>
     </recent_temporary>
   </component>
@@ -142,6 +143,9 @@
       <workItem from="1679564668800" duration="15609000" />
       <workItem from="1679746631422" duration="2557000" />
       <workItem from="1679764378862" duration="38000" />
+      <workItem from="1679774134244" duration="266000" />
+      <workItem from="1679936379655" duration="889000" />
+      <workItem from="1680023377238" duration="381000" />
     </task>
     <servers />
   </component>
