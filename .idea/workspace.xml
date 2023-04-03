@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70784bdd-f496-4e65-841e-7a44bd66414c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LambdasNdStreams/EmployeeStream.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LambdasNdStreams/EmployeeStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LambdasNdStreams/EmployeeStream.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,7 +145,9 @@
       <workItem from="1679774134244" duration="266000" />
       <workItem from="1679936379655" duration="889000" />
       <workItem from="1680023377238" duration="1722000" />
-      <workItem from="1680255859608" duration="1085000" />
+      <workItem from="1680255859608" duration="1820000" />
+      <workItem from="1680429373656" duration="723000" />
+      <workItem from="1680522441629" duration="768000" />
     </task>
     <servers />
   </component>
