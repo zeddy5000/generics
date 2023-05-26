@@ -10,6 +10,7 @@ public class StreamsTest {
         String numbers = IntStream
                 .rangeClosed(1,20)
                 .mapToObj(String::valueOf)
+                .sorted()
                 .collect(Collectors.joining(" "));
         System.out.println(numbers);
     }

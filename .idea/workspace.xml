@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70784bdd-f496-4e65-841e-7a44bd66414c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/collections/ReverseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collections/AltTab.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collections/KataTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/searchNsortAlgorithms/LinearSearchTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LambdasNdStreams/StreamsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LambdasNdStreams/StreamsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/ReverseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collections/ReverseArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +52,19 @@
   }
 }</component>
   <component name="RunManager" selected="Application.ReverseArray">
+    <configuration name="AltTab" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collections.AltTab" />
+      <module name="generics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EmployeeStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LambdasNdStreams.EmployeeStream" />
       <module name="generics" />
@@ -61,12 +78,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntStreamOp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LambdasNdStreams.IntStreamOp" />
+    <configuration name="KataTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collections.KataTest" />
       <module name="generics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LambdasNdStreams.*" />
+          <option name="PATTERN" value="collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinearSearchTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="searchNsortAlgorithms.LinearSearchTest" />
+      <module name="generics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="searchNsortAlgorithms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,39 +117,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StrStrems" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LambdasNdStreams.StrStrems" />
-      <module name="generics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LambdasNdStreams.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringStreams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LambdasNdStreams.StringStreams" />
-      <module name="generics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LambdasNdStreams.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.ReverseArray" />
+        <item itemvalue="Application.AltTab" />
+        <item itemvalue="Application.KataTest" />
+        <item itemvalue="Application.LinearSearchTest" />
         <item itemvalue="Application.EmployeeStream" />
-        <item itemvalue="Application.StrStrems" />
-        <item itemvalue="Application.StringStreams" />
-        <item itemvalue="Application.IntStreamOp" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +153,13 @@
       <workItem from="1680429373656" duration="723000" />
       <workItem from="1680522441629" duration="3122000" />
       <workItem from="1680556457537" duration="3254000" />
-      <workItem from="1680607262676" duration="2319000" />
+      <workItem from="1680607262676" duration="3018000" />
+      <workItem from="1680612979830" duration="268000" />
+      <workItem from="1680617433904" duration="174000" />
+      <workItem from="1680856238613" duration="2176000" />
+      <workItem from="1682326771627" duration="1759000" />
+      <workItem from="1683536890048" duration="4524000" />
+      <workItem from="1684859422767" duration="3358000" />
     </task>
     <servers />
   </component>
